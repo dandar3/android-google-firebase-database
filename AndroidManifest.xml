@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" package="com.google.firebase.database"
-    android:versionCode="1102"
-    android:versionName="11.0.2">
+    android:versionCode="1120"
+    android:versionName="11.2.0">
     <uses-sdk android:minSdkVersion="14"/>
 </manifest>
